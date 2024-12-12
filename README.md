@@ -24,7 +24,7 @@ We boast a talented team of developers dedicated to ensuring quality and innovat
 - Abstract
 - Inmutable
 - KohiLounges
-- JustCarlux
+- JustCarluX
 
 ## Contact Us
 Interested in our services or projects? Don’t hesitate to reach out:
