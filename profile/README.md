@@ -25,6 +25,7 @@ We boast a talented team of developers dedicated to ensuring quality and innovat
 - Inmutable
 - KohiLounges
 - JustCarluX
+- Tom70
 - Tryfast
 
 ## Contact Us
