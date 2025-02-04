@@ -27,7 +27,6 @@ We boast a talented team of developers dedicated to ensuring quality and innovat
 - JustCarluX
 - Tom70
 - Tryfast
-- Wacho
 
 ## Contact Us
 Interested in our services or projects? Don’t hesitate to reach out:
