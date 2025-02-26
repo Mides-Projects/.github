@@ -8,7 +8,7 @@ Welcome to **Mides Projects**, a company dedicated to innovation and technologic
 
 ## Current Projects
 
-### HolyPvP
+### HolyPvP Network
 **HolyPvP** is a Minecraft server focused on delivering the ultimate PvP (Player vs. Player) experience. Featuring game modes such as **Hardcore Factions (HCF)**, **UHC**, and **Practice**, the server attracts players seeking intense challenges and a competitive community. It supports versions from 1.7 to 1.20, ensuring a smooth and optimized combat experience.
 
 - **Server IP:** `holypvp.net`
@@ -16,8 +16,13 @@ Welcome to **Mides Projects**, a company dedicated to innovation and technologic
 - **Website:** [HolyPvP](https://holypvp.net)
 - **Community:** [Official Discord](https://discord.com/invite/holypvp)
 
-### PlayMides
-**PlayMides** is the home of Minecraft mini-games. From classics like SkyWars and BedWars to innovative modes designed by our team, PlayMides aims to redefine casual and competitive gaming experiences within Minecraft.
+### Cavernia Games
+**Cavernia** is a Minecraft server focused on delivering the ultimate RPG, PvE and PvP experience. Featuring game modes such as **BoxPvP**, **Gens**, **Survival**, **Prison OP** and **SkyBlock**. It supports versions from 1.16 to 1.20, ensuring a smooth and optimized combat experience.
+
+- **Server IP:** `cavernia.org`
+- **Highlighted Modes:** BoxPvP, Survival and SkyBlock.
+- **Website:** [HolyPvP](https://cavernia.org)
+- **Community:** [Official Discord](https://discord.com/invite/cavernia)
 
 ## Our Team
 We boast a talented team of developers dedicated to ensuring quality and innovation in every project:
