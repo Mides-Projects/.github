@@ -21,7 +21,7 @@ Welcome to **Mides Projects**, a company dedicated to innovation and technologic
 
 - **Server IP:** `cavernia.org`
 - **Highlighted Modes:** BoxPvP, Survival and SkyBlock.
-- **Website:** [HolyPvP](https://cavernia.org)
+- **Website:** [Cavernia](https://cavernia.org)
 - **Community:** [Official Discord](https://discord.com/invite/cavernia)
 
 ## Our Team
