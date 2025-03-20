@@ -46,7 +46,7 @@ We are taking the lead to offer the best quality in high versions with infinite 
 
 📑 **Network Information**  
 **Server IP:** [cavernia.org](https://namemc.com/search?q=cavernia.org) `Versions: 1.16.2 to 1.21.4`  
-**Website:** [www.cavernia.org](https://www.holypvp.net) | [www.cavernia.org/help](https://www.holypvp.net)  
+**Website:** [www.cavernia.org](https://www.cavernia.org) | [www.cavernia.org/help](https://www.cavernia.org)  
 **Community:** [www.cavernia.org/discord](https://discord.com/invite/cavernia) | [discord.gg/cavernia](https://discord.com/invite/cavernia)  
   
 # **👥 Development Team**  
