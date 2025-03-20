@@ -1,39 +1,45 @@
-# Mides Projects
+# Mides Projects ®
 
-Welcome to **Mides Projects**, a company dedicated to innovation and technological development across various fields. We specialize in:
+Welcome to the official **Mides Projects** github page.
+We are a digital enhancement company focused on online business.
 
-- **Custom technology development.**
-- **Comprehensive service delivery**, including software development, business management, digital marketing, and more.
-- **Launching our own companies and platforms.**
+**🖥️ Our technology commissions clients are supported with ▾**
+➊ Advanced, optimized and comprehensive custom technology
+➋ Instant assistance from our software engineers
+➌ High quality and fast comissions delivery times 
 
-## Current Projects
+## 🛫 Ongoing projects
 
-### HolyPvP Network
-**HolyPvP** is a Minecraft server focused on delivering the ultimate PvP (Player vs. Player) experience. Featuring game modes such as **Hardcore Factions (HCF)**, **UHC**, and **Practice**, the server attracts players seeking intense challenges and a competitive community. It supports versions from 1.7 to 1.20, ensuring a smooth and optimized combat experience.
+### 🏹 HolyPvP Network
+Holy is one of the most important 1.8 minecraft server since 2016 offering all variants of potpvp game modes.
+We are taking the lead in offering the biggest pvp revolution in legacy versions with an infinity of content.
 
-- **Server IP:** `holypvp.net`
-- **Highlighted Modes:** HCF, Practice, UHC.
-- **Website:** [HolyPvP](https://holypvp.net)
-- **Community:** [Official Discord](https://discord.com/invite/holypvp)
+🛠️ **We work in the following fields ▾** 
+➊ Hub Core (Celestial): The plugin in charge of receiving hundreds of users in an optimized way and with innovative features.
+It has several modules such as the hcf hub, authentication hub, outcast room or afk room. 
+➋ HCF Core (Quartz): This hcf core contains different modules adapted for different prototypes of the game modes, with
+an infinity of content optimized for the best user experience in relation to the server consume.
 
-### Cavernia Games
-**Cavernia** is a Minecraft server focused on delivering the ultimate RPG, PvE and PvP experience. Featuring game modes such as **BoxPvP**, **Gens**, **Survival**, **Prison OP** and **SkyBlock**. It supports versions from 1.16 to 1.20, ensuring a smooth and optimized combat experience.
+🎮 **Server IP:** [holypvp.net](https://namemc.com/search?q=holypvp.net)
+- **Website:** [www.holypvp.net](https://discord.com/invite/holypvp)
+- **Community:** [wwww.holypvp.net/discord](https://discord.com/invite/holypvp)
 
-- **Server IP:** `cavernia.org`
-- **Highlighted Modes:** BoxPvP, Survival and SkyBlock.
-- **Website:** [Cavernia](https://cavernia.org)
-- **Community:** [Official Discord](https://discord.com/invite/cavernia)
+## **👥 Development Team**
+This is the team of developers in charge of covering all the projects and branches of mides projects.
+🔩 Abstract - Lead Developer
+⚙️ Inmutable - Software Engineer
+⚙️ JustCarluX - Software Engineer
+⚙️ Godinez - Software Engineer
+⚙️ Tomas - Software Engineer
+⚒️ Kohi - Technical Producer
+⚒️ Dosa - Technical Producer
+⚒️ Saycles - Technical Producer
+⚒️ Doubted - Technical Producer
+⚒️ Zopa - Technical Producer
+🎨 Tryfast - Aesthetic Manager
 
-## Our Team
-We boast a talented team of developers dedicated to ensuring quality and innovation in every project:
-- Abstract
-- Inmutable
-- KohiLounges
-- JustCarluX
-- Tom70
-- Tryfast
-- Oliversalg
+## **💼 Interested in our project?**
+If you want to work with us, send your application to **studios@midesprojects.com**
+For more information about our services contact us at **support@midesprojects.com**
 
-## Contact Us
-Interested in our services or projects? Don’t hesitate to reach out:
-- **Email:** midesprojects@gmail.com
+`All rights reserved to Mides Projects LLC ®`
