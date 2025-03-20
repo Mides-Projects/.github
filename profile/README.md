@@ -8,9 +8,9 @@ We are a digital enhancement company focused on online business.
 ➋ Instant assistance from our software engineers  
 ➌ High quality and fast comissions delivery times  
   
-## 🛫 Ongoing projects  
+# 🛫 Ongoing projects  
   
-## 🏹 HolyPvP Network  
+# 🏹 HolyPvP Network  
 Holy is one of the most important 1.8 minecraft server since 2016 offering all variants of potpvp game modes.  
 We are taking the lead in offering the biggest pvp revolution in legacy versions with an infinity of content.  
   
@@ -24,19 +24,19 @@ an infinity of content optimized for the best user experience in relation to the
 **Website:** [www.holypvp.net](https://discord.com/invite/holypvp)  
 **Community:** [wwww.holypvp.net/discord](https://discord.com/invite/holypvp)  
   
-## **👥 Development Team**  
+# **👥 Development Team**  
 This is the team of developers in charge of covering all the projects and branches of mides projects.  
-🔩 Abstract - Lead Developer  
-⚙️ Inmutable - Software Engineer  
-⚙️ JustCarluX - Software Engineer  
-⚙️ Godinez - Software Engineer  
-⚙️ Tomas - Software Engineer  
-⚙️ Kohi - Software Engineer  
-⚒️ Dosa - Technical Producer  
-⚒️ Saycles - Technical Producer  
-⚒️ Doubted - Technical Producer  
-⚒️ Zopa - Technical Producer  
-🎨 Tryfast - Aesthetic Manager  
+🔩 **Abstract** - Lead Developer  
+⚙️ **Inmutable** - Software Engineer  
+⚙️ **JustCarluX** - Software Engineer  
+⚙️ **Godinez** - Software Engineer  
+⚙️ **Tomas** - Software Engineer  
+⚙️ **Kohi** - Software Engineer  
+⚒️ **Dosa** - Technical Producer  
+⚒️ **Saycles** - Technical Producer  
+⚒️ **Doubted** - Technical Producer  
+⚒️ **Zopa** - Technical Producer  
+🎨 **Tryfast** - Aesthetic Manager  
 
 ## **💼 Interested in our project?**  
 If you want to work with us, send your application to **studios@midesprojects.com**  
