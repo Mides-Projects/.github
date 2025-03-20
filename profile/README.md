@@ -25,10 +25,10 @@ We are taking the lead in offering the biggest pvp revolution in legacy versions
 **Community:** [wwww.holypvp.net/discord](https://discord.com/invite/holypvp)
 
 ## **👥 Development Team**
--This is the team of developers in charge of covering all the projects and branches of mides projects.
--🔩 Abstract - Lead Developer
--⚙️ Inmutable - Software Engineer
--⚙️ JustCarluX - Software Engineer
+This is the team of developers in charge of covering all the projects and branches of mides projects.
+ 🔩 Abstract - Lead Developer
+ ⚙️ Inmutable - Software Engineer
+ ⚙️ JustCarluX - Software Engineer
 -⚙️ Godinez - Software Engineer
 -⚙️ Tomas - Software Engineer
 -⚒️ Kohi - Technical Producer
