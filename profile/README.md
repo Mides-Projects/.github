@@ -30,7 +30,7 @@ an infinity of content optimized for the best user experience in relation to the
 ▪︎ **Discord Bot**: Featured discord bot with advanced support systems and minigames.
 
 📑 **Network Information**  
-**Server IP:** [holypvp.net](https://namemc.com/search?q=holypvp.net) `Versions: 1.7.9 to 1.21.4`  
+**Server IP:** [holypvp.net](https://namemc.com/search?q=holypvp.net) `Versions: 1.7.2 to 1.21.4`  
 **Website:** [www.holypvp.net](https://www.holypvp.net) | [www.holypvp.net/help](https://www.holypvp.net)  
 **Community:** [www.holypvp.net/discord](https://discord.com/invite/holypvp) | [discord.gg/holypvp](https://discord.com/invite/holypvp)  
 
