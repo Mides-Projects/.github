@@ -52,16 +52,17 @@ We are taking the lead to offer the best quality in high versions with infinite 
 # **👥 Development Team**  
 This is the team of developers in charge of covering all the projects and branches of mides projects.  
 🔩 **Abstract** - Lead Developer  
-⚙️ **Inmutable** - Software Engineer  
+⚙️ **Rivera Castillo** - Software Engineer  
 ⚙️ **JustCarluX** - Software Engineer  
-⚙️ **Godinez** - Software Engineer  
+⚙️ **Miguel Angel Arango** - Software Engineer  
+⚙️ **Manuela** - Software Engineer  
 ⚙️ **Tomas** - Software Engineer  
-⚙️ **Kohi** - Software Engineer  
+⚙️ **Santino Gregoret** - Software Engineer  
 ⚒️ **Dosa** - Technical Producer  
 ⚒️ **Saycles** - Technical Producer  
 ⚒️ **Doubted** - Technical Producer  
 ⚒️ **Zopa** - Technical Producer  
-🎨 **Tryfast** - Aesthetic Manager  
+🎨 **Sergio Forteza** - Aesthetic Manager  
 
 ## **💼 Interested in our project?**  
 If you want to work with us, send your application to **studios@midesprojects.com**  
