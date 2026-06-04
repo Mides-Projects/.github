@@ -10,10 +10,9 @@ We are a digital enhancement company focused on online business.
   
 # **👥 Development Team**  
 This is the team of developers in charge of covering all the projects and branches of mides projects.  
-🔩 **Abstract** - Lead Developer  
-⚙️ **Rivera Castillo** - Software Engineer  
-⚙️ **JustCarluX** - Software Engineer  
+🔩 **Rivera Castillo** - Lead Developer  
 ⚙️ **Santino Gregoret** - Software Engineer  
+⚙️ **Miguel Aranda** - Software Engineer  
 🎨 **Sergio Forteza** - Aesthetic Manager  
 
 ## **💼 Interested in our project?**  
