@@ -12,7 +12,6 @@ We are a digital enhancement company focused on online business.
 This is the team of developers in charge of covering all the projects and branches of mides projects.  
 🔩 **Rivera Castillo** - Lead Developer  
 ⚙️ **Santino Gregoret** - Software Engineer  
-⚙️ **Miguel Aranda** - Software Engineer  
 🎨 **Sergio Forteza** - Aesthetic Manager  
 
 ## **💼 Interested in our project?**  
