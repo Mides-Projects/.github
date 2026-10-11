@@ -11,8 +11,10 @@ We are a digital enhancement company focused on online business.
 # **👥 Development Team**  
 This is the team of developers in charge of covering all the projects and branches of mides projects.  
 🔩 **Rivera Castillo** - Lead Developer  
-⚙️ **Santino Gregoret** - Software Engineer  
+💡 **Santino Gregoret** - Lead Creative & Software Engineer  
 🎨 **Sergio Forteza** - Aesthetic Manager  
+⚙️ **Nicolas Acheverreaga** - Software Engineer  
+⚙️ **Luca Valenti** - Software Engineer  
 
 ## **💼 Interested in our project?**  
 If you want to work with us, send your application to **studios@midesprojects.com**  
